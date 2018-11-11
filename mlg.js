@@ -9,22 +9,22 @@ var MLGchecker = "xXx_mlg_checker_xXx";
 // Replace sources of all images
 var images = [
 	"https://pm1.narvii.com/6093/be838c02709bb70e78f115dbcdac89bb7874ae13_hq.jpg",
-	"",
-	"http://i.imgur.com/SoE7jVi.jpg",
-	"http://i.imgur.com/reZXpqs.jpg",
-	"http://i.imgur.com/8EHkaox.jpg",
-	"http://i.imgur.com/ymU48Db.gif",
+	"https://i.imgur.com/GpRcYvb",
+	"http://i.imgur.com/tt6kRIh.gif",
+	"http://i.imgur.com/Mth4ppl.jpg",
+	"http://i.imgur.com/Mth4ppl.jpg",
+	"http://i.imgur.com/tt6kRIh.gif",
 	"http://puu.sh/3ObVc.gif",
 	"http://puu.sh/41mIF.gif",
 	"http://puu.sh/41mMg.gif",
 	"http://puu.sh/41mP0.gif",
 	"http://puu.sh/41mQ5.gif",
-	"http://i.imgur.com/n41tcFI.gif",
-	"http://i.imgur.com/e9unmW9.png",
+	"http://i.imgur.com/fubyWzA.jpg",
+	"http://i.imgur.com/fubyWzA.jpg",
 	"http://s3-ec.buzzfed.com/static/enhanced/webdr06/2013/6/12/10/enhanced-buzz-16022-1371047559-13.jpg",
-	"http://i.imgur.com/oTxFnjp.png",
-	"http://i.imgur.com/nC9Sluu.gif",
-	"http://i.imgur.com/b87y0Vp.gif",
+	"http://i.imgur.com/fubyWzA.png",
+	"https://i.warosu.org/data/jp/img/0138/55/1438410163384.gif",
+	"https://i.warosu.org/data/g/img/0494/36/1438622812657.gif",
 	"http://i.imgur.com/QNy5cAF.png",
 	"http://i.imgur.com/op9PWrr.gif",
 	"http://i.imgur.com/5Ro9KS9.gif?1",
@@ -50,7 +50,7 @@ var sounds = [
 ];
 
 /*
-"Autumn Blaze" colors (straignt from http://www.colourlovers.com/palette/2996458/autumn_blaze)
+"cirno" colors (straignt from http://www.colourlovers.com/palette/2996458/autumn_blaze)
 Sam Loomis (whiteish): F9F7F6
 Vanilla Scoop (skin colorish): FBF5D7
 run in the sun (yellow orange ish): FFDD49
@@ -58,11 +58,11 @@ Cheddar Please (orangeish): FCBD49
 light green weed: 7ABA71
 */
 var weedColors = [
-    [249,247,246],
-    [251,245,215],
-    [255,221,73],
-    [252,189,73],
-    [122,186,113]
+    [240,254,255],
+    [56,212,255],
+    [15,106,255],
+    [0,17,153],
+    [0,28,56]
 ];
 
 
