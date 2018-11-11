@@ -8,8 +8,8 @@ var MLGchecker = "xXx_mlg_checker_xXx";
 
 // Replace sources of all images
 var images = [
-	"http://i.imgur.com/spEe2uf.jpg",
-	"http://i.imgur.com/hsGl9J0.png",
+	"https://pm1.narvii.com/6093/be838c02709bb70e78f115dbcdac89bb7874ae13_hq.jpg",
+	"",
 	"http://i.imgur.com/SoE7jVi.jpg",
 	"http://i.imgur.com/reZXpqs.jpg",
 	"http://i.imgur.com/8EHkaox.jpg",
